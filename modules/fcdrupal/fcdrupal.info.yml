@@ -1,0 +1,8 @@
+name: FCDrupal Block
+description: A block module with GUI to embed FusionCharts in your drupal project.
+core: 8.x
+package: Data Visualization with FusionCharts
+dependencies:
+- node
+- block
+type: module
